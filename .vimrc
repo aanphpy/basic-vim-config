@@ -1,6 +1,8 @@
+" ===== Basic Config =====
 set expandtab
 set backspace=indent,eol,start
 set smartindent
+"set syntax=on
 syntax on
 set nowrap
 set tabstop=4
